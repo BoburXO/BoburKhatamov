@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d61e8aaf.css",
+    "main.js": "/static/js/main.e8c7cbea.js",
+    "static/media/tesla.png": "/static/media/tesla.f826ec7f87f1d7d138f7.png",
+    "static/media/hulu.png": "/static/media/hulu.91122c929c36c03ea90d.png",
+    "static/media/cool.png": "/static/media/cool.56c33d1fb0d0b58c7ec5.png",
+    "static/media/flakon.png": "/static/media/flakon.b06c9273c86a05f6c99f.png",
+    "static/media/award.png": "/static/media/award.577608338b481e9a83cc.png",
+    "static/media/hello.png": "/static/media/hello.8a32f34e3c6ee475bcea.png",
+    "static/media/port.png": "/static/media/port.ab132b92a12f1b58e83d.png",
+    "static/media/bobur.png": "/static/media/bobur.70c36e63b60b5fda04a2.png",
+    "static/media/clean.png": "/static/media/clean.6fd4755bc28c1e797c0e.png",
+    "static/media/lavish.png": "/static/media/lavish.37de23bd1a66dfca4ddd.png",
+    "static/media/Coder.png": "/static/media/Coder.959baf374c9cf77a20b0.png",
+    "static/media/Resume.EN.pdf": "/static/media/Resume.EN.ae24891d5f79ec94cb76.pdf",
+    "static/media/Resume Bobur.pdf": "/static/media/Resume Bobur.17a1208f104acbe2b3b0.pdf",
+    "static/media/Resume.RU.pdf": "/static/media/Resume.RU.efe507b5150b6e21ffd2.pdf",
+    "static/media/html.png": "/static/media/html.99775abc984dc969398c.png",
+    "static/media/js.png": "/static/media/js.cda8baca1fe7ff670018.png",
+    "static/media/ts.png": "/static/media/ts.c4105801aadf2606ac30.png",
+    "static/media/css.png": "/static/media/css.06cceec51f2fe269a30c.png",
+    "static/media/react.png": "/static/media/react.53029800f1f4467f5259.png",
+    "static/media/redux.png": "/static/media/redux.c0b0a4d768143831a86c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.b648fc6a0af959e422964ca64e00ea68.svg",
+    "static/media/address.svg": "/static/media/address.150a963ecd488497d1f7ce2277505f5d.svg",
+    "static/media/email.svg": "/static/media/email.95f01b71743a09fc43962e9ef25cba82.svg",
+    "main.d61e8aaf.css.map": "/static/css/main.d61e8aaf.css.map",
+    "main.e8c7cbea.js.map": "/static/js/main.e8c7cbea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61e8aaf.css",
+    "static/js/main.e8c7cbea.js"
+  ]
+}
